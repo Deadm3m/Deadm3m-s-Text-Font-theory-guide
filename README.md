@@ -8,7 +8,8 @@ This is a guide on font theory and how to make text.
 So, you might be deciding which font style to use in your current project but you don't know which style suits the aesthetic, maybe you've tried but none seem to match what your looking for.
 Luckily for you, there's a simple way to figure this out : It's reccommended to examine where your text will be placed and how will people see it, it would also be a good thing if you check how the text will contrast with the enviroment or how big or small it needs to be readable but not too big.
 
-If you're going for an aesthetic, you should imply that in the font or layout of the text which depicts the feel that you're looking for. *EXAMPLES:* ![image](https://github.com/user-attachments/assets/9ac531cb-b462-4368-ab49-687cbbea1e96) ![image](https://github.com/user-attachments/assets/5f2e7ee7-43b4-4e8e-aee0-9d62bf1c2d1d)
+If you're going for an aesthetic, you should imply that in the font or layout of the text which depicts the feel that you're looking for. *EXAMPLES:* 
+![image](https://github.com/user-attachments/assets/9ac531cb-b462-4368-ab49-687cbbea1e96) ![image](https://github.com/user-attachments/assets/5f2e7ee7-43b4-4e8e-aee0-9d62bf1c2d1d)
 
 
 
